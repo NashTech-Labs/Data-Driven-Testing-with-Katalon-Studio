@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>DataDrivenTestingCSVSuite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>087d4cca-130e-4a69-b4ee-fead9b229b67</testSuiteGuid>
+   <testCaseLink>
+      <guid>8b261791-6151-4c9c-8eaa-8bde910d01a4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/DDT_in_Katalon_Studio/TC-LogIn</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>26be4897-d432-4e50-9f4f-6104a9e35a1d</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/DataSet_CSV</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>26be4897-d432-4e50-9f4f-6104a9e35a1d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>2d4349ac-a152-44de-b620-770271739d99</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>26be4897-d432-4e50-9f4f-6104a9e35a1d</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Password</value>
+         <variableId>9a37e726-41d5-4409-a563-30367b850a69</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

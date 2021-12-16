@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>This test aims to perform data driven testing using data present in the CSV file.</description>
+   <name>TC-LogIn</name>
+   <tag>ddt</tag>
+   <comment></comment>
+   <testCaseGuid>87bb3647-9351-4a19-9781-bba4e309131e</testCaseGuid>
+   <variable>
+      <defaultValue>'test_demo@yopmail.com'</defaultValue>
+      <description></description>
+      <id>2d4349ac-a152-44de-b620-770271739d99</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456789'</defaultValue>
+      <description></description>
+      <id>9a37e726-41d5-4409-a563-30367b850a69</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

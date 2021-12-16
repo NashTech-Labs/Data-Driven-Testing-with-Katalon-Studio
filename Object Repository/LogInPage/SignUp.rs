@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SignUp</name>
+   <tag></tag>
+   <elementGuidId>014afe09-1cbf-4d3e-b58d-7ba591f22c59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html//div[@id='clearance']//form[@action='/session']//a[@href='/sign_up']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html//div[@id='clearance']//form[@action='/session']//a[@href='/sign_up']</value>
+   </webElementProperties>
+</WebElementEntity>

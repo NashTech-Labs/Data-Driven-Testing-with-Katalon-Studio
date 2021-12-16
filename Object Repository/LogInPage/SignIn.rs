@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SignIn</name>
+   <tag></tag>
+   <elementGuidId>9f9bcba0-6f87-453f-a6e5-5e495efdb353</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html//div[@id='clearance']//form[@action='/session']//input[@name='commit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html//div[@id='clearance']//form[@action='/session']//input[@name='commit']</value>
+   </webElementProperties>
+</WebElementEntity>

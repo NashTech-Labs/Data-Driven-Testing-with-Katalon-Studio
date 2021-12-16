@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>A web application to perform the automation</description>
+      <initValue>'http://a.testaddressbook.com/'</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>timeOut Global variable signifies the maximum wait in seconds</description>
+      <initValue>10</initValue>
+      <name>timeOut</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>welcomeText will be visible if user login sucesfully.We will use this variable with method WebUI.verifyTextPresesnt(welcomeText) to validate the test cases of logIn action</description>
+      <initValue>'Welcome to Address Book'</initValue>
+      <name>welcomeText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>delayTime is the delay in seconds before executing the suceeding test cases</description>
+      <initValue>3</initValue>
+      <name>delayTime</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

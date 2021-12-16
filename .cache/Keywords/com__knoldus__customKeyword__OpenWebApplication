@@ -1,0 +1,35 @@
+{
+  "keywordFileContentHash": "D9C29DA45B01CF9D38F4CF5FD8154A71",
+  "keywordClasses": [
+    {
+      "name": "com.knoldus.customKeyword.BrowserOperation",
+      "keywordMethods": [
+        {
+          "name": "openWebApp",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "closeBrowser",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
