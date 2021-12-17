@@ -39,14 +39,14 @@ Using Database
 ### Data Driven Testing using Database
 
 1. Using Global Configuration
-  -Go to settings > external
-   -Open com.kms.katalon.core.db.DatabaseSettings.properties
-   -Change the URL in format : jdbc:mysql://host:port/DB_NAME
-   -Add your username and password (encrypted form)
-   -Save
-   -Open the project in Katalon Studio
-   -Add Your Test Case in the Suite
-   -Run the suite
+   * Go to settings > external
+   * Open com.kms.katalon.core.db.DatabaseSettings.properties
+   * Change the URL in format : jdbc:mysql://host:port/DB_NAME
+   * Add your username and password (encrypted form)
+   * Save
+   * Open the project in Katalon Studio
+   * Add Your Test Case in the Suite
+   * Run the suite
    
 2. Using Local configuration
    -Go to Data Files
