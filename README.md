@@ -49,11 +49,11 @@ Using Database
    * Run the suite
    
 2. Using Local configuration
-   -Go to Data Files
-   -Edit DataSet_Database.dat file
-   -Set `<usingGlobalDBSetting>false</usingGlobalDBSetting>`
-   -Add you query between `<query>SQL query</query>`
-   -Add the URL, user and password in tags `<dataSourceUrl>`, `<user>` and `<password>`
-   -Open the project in Katalon Studio
-   -Add Your Test Case in the Suite
-   -Run the suite
+   * Go to Data Files
+   * Edit DataSet_Database.dat file
+   * Set `<usingGlobalDBSetting>false</usingGlobalDBSetting>`
+   * Add you query between `<query>SQL query</query>`
+   * Add the URL, user and password in tags `<dataSourceUrl>`, `<user>` and `<password>`
+   * Open the project in Katalon Studio
+   * Add Your Test Case in the Suite
+   * Run the suite
